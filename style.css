@@ -185,7 +185,7 @@ h2 {
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary{
     background-color: var(--alto-contraste-link);
-    color: ("red")
+    color: "FF69B4"
 }
 
 .alto-contraste #tropicalia {
